@@ -56,6 +56,8 @@ Restrições:
 ### Vamos falar sobre a logica sobre o modulo antes de tudo:
 
 
+### Agora vamos entender como funcionou a integracao do modulo junto com o loop array:
+
 
 
 
