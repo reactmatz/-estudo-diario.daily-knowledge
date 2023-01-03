@@ -53,6 +53,9 @@ Restrições:
 ### RESOLUCAO
 ![App Screenshot](https://uploaddeimagens.com.br/images/004/282/192/original/rotate.png?1672706053) 
 
+### Vamos falar sobre a logica sobre o modulo antes de tudo:
+
+
 
 
 
