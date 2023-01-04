@@ -1,3 +1,7 @@
 .button::before {
   content: url(arrow-icon.png);
 }
+
+.button::after {
+  content: url(arrow-icon.png);
+}
