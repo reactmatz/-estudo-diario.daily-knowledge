@@ -8,4 +8,4 @@ Por exemplo, imagine que você tem um botão e quer adicionar um ícone de seta 
 
 Ou, se você quiser adicionar um ícone depois do texto do botão, pode usar o pseudo-elemento ::after:
 
-
+![App Screenshot](https://uploaddeimagens.com.br/images/004/283/699/original/after.png?1672792527)
