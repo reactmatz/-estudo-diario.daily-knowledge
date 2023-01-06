@@ -34,3 +34,30 @@ console.log(circle1.area()); // output: 78.53981633974483
 circle1.color = "red";
 console.log(circle1.color); // output: "red"
 
+/* -------------------------------------------- */ 
+
+// Adicionar um método a um objeto já existente
+var array1 = [1, 2, 3];
+array1.sum = function() {
+  return this.reduce(function(a, b) { return a + b; });
+};
+console.log(array1.sum()); // output: 6
+
+/* -------------------------------------------- */ 
+
+// Sobrescrever uma propriedade do prototype
+function Person(name) {
+  this.name = name;
+}
+
+Person.prototype.greeting = "Hello";
+
+var person1 = new Person("John");
+console.log(person1.greeting); // output: "Hello"
+
+person1.greeting = "Hi";
+console.log(person1.greeting); // output: "Hi"
+
+delete person1.greeting;
+console.log(person1.greeting); // output: "Hello"
+
