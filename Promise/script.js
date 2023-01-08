@@ -5,3 +5,6 @@ const fetchData = new Promise((resolve, reject) => {
     .catch(error => reject(error));
 });
 
+fetchData
+  .then(data => console.log(data))
+  .catch(error => console.error(error));
