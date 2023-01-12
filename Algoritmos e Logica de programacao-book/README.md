@@ -10,10 +10,9 @@ causadas por decisoes de usuarios,
 
 que afetem o funcionamento do seu codigo, veja abaixo trechos do livro: 
 
-![App Screenshot]()
-![App Screenshot]()
-![App Screenshot]()
-![App Screenshot]()
+![App Screenshot](https://uploaddeimagens.com.br/images/004/295/668/original/Screenshot_from_2023-01-11_19-19-24.png?1673481526) ![App Screenshot](https://uploaddeimagens.com.br/images/004/295/678/original/Screenshot_from_2023-01-11_19-20-05.png?1673481918)
+![App Screenshot](https://uploaddeimagens.com.br/images/004/295/683/original/Screenshot_from_2023-01-11_19-20-39.png?1673481997) ![App Screenshot](https://uploaddeimagens.com.br/images/004/295/686/original/Screenshot_from_2023-01-11_19-20-58.png?1673482045)
+
 
 
 ### Entao logo pensei, ja que estudo JS a um tempo, e tenho condicoes de replicar esse pseudo-codigo em codigo real, porque nao fazer ?
