@@ -6,6 +6,9 @@ function Pessoa(nome, idade) {
 let pessoa1 = new Pessoa("João", 30);
 let pessoa2 = new Pessoa("Maria", 25);
 
+
+/////
+
 function Pessoa(nome, idade) {
   this.nome = nome;
   this.idade = idade;
