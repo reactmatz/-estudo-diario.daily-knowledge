@@ -4,7 +4,7 @@ O "Optional Chaining" é um recurso adicionado no ECMAScript 2020 e é usado par
 
 Sintaxe:
 
-<img src="img/chaining.png" width= 750px >
+<img src="img/chaining-sintaxe.png" width= 750px >
 
 Exemplo:
 
