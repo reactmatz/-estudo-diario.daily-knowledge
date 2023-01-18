@@ -15,3 +15,4 @@ const user = {
 
 // podemos escrever o mesmo codigo assim:
 
+console.log(user?.adress?.street);
