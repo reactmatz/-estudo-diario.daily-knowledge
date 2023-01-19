@@ -19,10 +19,10 @@ true
 [] (array vazio)
 Isso significa que, por exemplo, se você usar um valor falsy em uma expressão if, a expressão será avaliada como falsa, enquanto se você usar um valor truthy, a expressão será avaliada como verdadeira.
 
-<ing src = "img/tru.png" width = "600px">
+<img src= "img/tru.png" width = 600px>
 
 Além disso, é possível usar a função Boolean() para verificar se um valor é truthy ou falsy:
 
 
-<ing src = "img/boo.png" width = "600px">
+<img src= "img/boo.png" width = 600px>
 
