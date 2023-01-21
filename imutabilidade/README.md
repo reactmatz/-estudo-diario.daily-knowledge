@@ -8,3 +8,15 @@ Em JavaScript, um exemplo de imutabilidade é usar o método Object.freeze() par
 
 <img src="img/freeze.png" width= 600px>
 
+Outra forma de se conseguir imutabilidade em JavaScript é utilizando o spread operator ... ou o método Object.assign() para criar uma cópia do objeto e modificar a cópia, ao invés de modificar o objeto original. Por exemplo:
+
+
+<img src="img/rest.png" width= 600px>
+
+ou
+
+<img src="img/other.png" width= 600px>
+
+É importante notar que, apesar de existir essas formas de se conseguir imutabilidade em javascript, a linguagem não é nativamente imutável, então é preciso tomar cuidado ao trabalhar com objetos para não acabar modificando-os indevidamente.
+
+
