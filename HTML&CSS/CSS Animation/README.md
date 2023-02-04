@@ -1,12 +1,7 @@
-CSS tutorial series: CSS Animation
-#
-beginners
-#
-css
-#
-webdev
-#
-tutorial
+# CSS tutorial series: CSS Animation
+
+###### tutorial
+
 You might've already come across animation on a website you previously visited and probably wondered how was it done.
 
 Some animation require the use of javascript which we will get to in a later post but first let's discuss how to animate in CSS.
@@ -82,7 +77,7 @@ In order for an animation to work it must first be connected to an element.
 </tbody>
 </table>
 
-animation-fill-mode:
+###### animation-fill-mode:
 
 forwards will allow the element to keep the style values that were set by the last keyframe.
 
@@ -90,7 +85,7 @@ backwards will allow the element to get the styles set by the first keyframe and
 
 both The animation will follow rules for both forward and backward motion.
 
-animation-timing-function:
+###### animation-timing-function:
 
 linear allows the animation to retain the same speed from start to end.
 
