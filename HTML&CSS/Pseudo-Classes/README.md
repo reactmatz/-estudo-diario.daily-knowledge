@@ -10,6 +10,13 @@ CSS pseudo-classes são seletores especiais que permitem aplicar estilos a eleme
 
 Pseudo-classes são adicionadas ao seletor de um elemento, separadas por um dois-pontos, como em p:hover {}.
 
-Exemplo pratico:
+####### Exemplo pratico:
 
 <img src="pseudo.png" width= 600px >
+
+
+
+####### todas as pseudo-classes:
+
+<img src="class.png" width= 600px >
+
