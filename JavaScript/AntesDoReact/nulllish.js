@@ -6,7 +6,7 @@
 
 var idade = 0;
 
-const compar = "Minha idade e : " +  (idade || 'nao informada');
+const compar = "Minha idade e : " +  (idade ?? 'nao informada');
 const teste = document.getElementById('minhaid').innerHTML = compar;
 
 // veja que 0 e um valor real, certo ? 0 continua sendo um numero, se voce trocar o ?? por || voce vai ver que o codigo vai retornar 'nao informado' quando na verdade queremos que retorne 0.

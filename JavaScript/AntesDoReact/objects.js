@@ -3,7 +3,7 @@
 const user = {
   name:'matheus',
   idade:23,
-  adress:{
+  address:{
     street:'rua de tal',
     number:253
   }
