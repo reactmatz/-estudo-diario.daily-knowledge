@@ -4,7 +4,6 @@ Aqui está um exemplo de uma função construtora:
 
 ![Screeshot](img/ft1.png)
 
-Em JavaScript, uma função construtora é um tipo especial de função que é usado para criar e inicializar um objeto. A função construtora é invocada usando a palavra-chave "new", que cria uma nova instância do objeto e define o valor de "this" para o novo objeto.
 
 Aqui está um exemplo de uma função construtora:
 
