@@ -61,3 +61,6 @@ console.log(person1.greeting); // output: "Hi"
 delete person1.greeting;
 console.log(person1.greeting); // output: "Hello"
 
+
+
+
