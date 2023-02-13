@@ -8,6 +8,10 @@ Separo em categorias:
 
 - HTML&CSS
 
-- FUNDAMENTOS
+- Fundamentos
 
 - Backend
+
+- Faculdade(em breve)
+
+- Frameworks & Bibliotecas
