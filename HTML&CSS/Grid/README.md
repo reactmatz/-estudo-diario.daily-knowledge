@@ -18,5 +18,24 @@ grid-auto-flow: Define a direção de colocação automática de itens que não 
 
 Essas são algumas das propriedades mais importantes do CSS Grid, mas existem outras propriedades úteis para ajustar o layout e o estilo da grade. A utilização do CSS Grid é uma das formas mais eficientes e simples para criar layouts complexos em suas aplicações web.
 
+# Como centralizar "div" com display grid ?
+
+Para centralizar itens em um layout usando o display: grid, você pode usar as propriedades justify-content e align-content.
+
+A propriedade justify-content centraliza os itens horizontalmente, enquanto a propriedade align-content centraliza os itens verticalmente. Para centralizar os itens tanto horizontalmente quanto verticalmente, você precisa usar ambas as propriedades.
+
+Aqui está um exemplo de como centralizar os itens em um layout usando o display: grid:
+
+<img src="img/grid1.png" >
+
+<img src="img/grid2.png" >
+
+Neste exemplo, definimos um contêiner de grade com display: grid e height: 200px. Em seguida, definimos as propriedades justify-content: center e align-content: center para centralizar os itens tanto horizontal quanto verticalmente. Por fim, adicionamos um estilo de fundo e preenchimento para os itens na grade.
+
+Isso deve resultar em um layout onde os itens são centralizados no meio do contêiner de grade. Você pode ajustar as propriedades justify-content e align-content para centralizar os itens de outras maneiras, dependendo do que você precisa para o seu design.
+
+
+
+
 
 
