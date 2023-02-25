@@ -32,3 +32,13 @@ Os sistemas operacionais modernos também incluem várias tecnologias avançadas
 
 No geral, o estudo dos fundamentos dos sistemas operacionais modernos é essencial para qualquer pessoa que deseje entender o funcionamento interno de um computador, bem como para aqueles que desejam desenvolver aplicativos de software eficientes e escaláveis.
 
+### Definicao de sistema operacional:
+
+Uma boa definição de sistema operacional é que ele é um software que gerencia e coordena todos os recursos de hardware e software de um computador ou dispositivo eletrônico. Isso inclui gerenciar a memória, processador, dispositivos de entrada e saída, arquivos e redes. O sistema operacional fornece uma interface entre o usuário e o hardware, permitindo que os usuários interajam com o computador ou dispositivo eletrônico por meio de uma interface gráfica ou linha de comando. Além disso, o sistema operacional também é responsável por garantir a segurança do sistema e manter os aplicativos e dados do usuário protegidos. Em resumo, o sistema operacional é o coração de um computador ou dispositivo eletrônico, fornecendo os serviços básicos necessários para que os aplicativos possam funcionar corretamente.
+
+### o software controla o hardware atraves de codigo binario ? dizendo ao computador quando ele deve ligar e desligar (impulsos eletricos) para que tal funcao seja executada ?
+
+Sim, o software controla o hardware através de código binário. O código binário é a linguagem de máquina que os processadores entendem, e é a forma como as instruções são comunicadas aos componentes do hardware. O software é composto por uma sequência de instruções codificadas em código binário que são enviadas ao processador para execução. Essas instruções podem incluir operações como ler ou escrever em um dispositivo de armazenamento, enviar ou receber dados de um dispositivo de rede, exibir informações em um monitor, controlar a intensidade da luz em um display, entre outras funções.
+
+Por exemplo, quando você clica em um ícone para abrir um programa, o software envia uma sequência de instruções em código binário para o processador, que controla os impulsos elétricos enviados para os componentes do hardware, dizendo-lhes quando ligar ou desligar, para que o programa seja carregado na memória e executado. Dessa forma, o software é responsável por controlar o hardware para que as funções sejam executadas de maneira eficiente e correta.
+
