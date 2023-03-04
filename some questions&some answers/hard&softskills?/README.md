@@ -29,4 +29,4 @@ Funções, que são blocos de código que podem ser reutilizados em diferentes p
 Manipulação do DOM (Document Object Model), que permite alterar elementos na página web
 Requisições HTTP e AJAX, que permitem obter e enviar dados do servidor
 Programação assíncrona, que permite que o código continue sendo executado enquanto espera por uma resposta do servidor
-Dominar esses fundamentos e aplicá-los de maneira eficiente em seu trabalho diário é fundamental para ser um desenvolvedor front-end eficiente e produtivo.
+Dominar esses fundamentos e aplicá-los de maneira eficiente em seu trabalho diário é fundamental para ser um desenvolvedor front-end eficiente e produtivo !
