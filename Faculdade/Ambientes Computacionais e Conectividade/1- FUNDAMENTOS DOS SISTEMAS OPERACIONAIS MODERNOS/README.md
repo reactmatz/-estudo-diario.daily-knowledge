@@ -1,6 +1,6 @@
 # 1- FUNDAMENTOS DOS SISTEMAS OPERACIONAIS MODERNOS
 
-Fundamentos dos sistemas operacionais modernos é um assunto importante em Ciência da Computação e engenharia de software. Esse tópico abrange uma série de conceitos, técnicas e tecnologias relacionados a sistemas operacionais modernos, que são utilizados para gerenciar recursos de hardware e software em um computador ou em um conjunto de computadores.
+ Fundamentos dos sistemas operacionais modernos é um assunto importante em Ciência da Computação e engenharia de software. Esse tópico abrange uma série de conceitos, técnicas e tecnologias relacionados a sistemas operacionais modernos, que são utilizados para gerenciar recursos de hardware e software em um computador ou em um conjunto de computadores.
 
 Alguns dos principais conceitos abordados em Fundamentos dos sistemas operacionais modernos incluem:
 
