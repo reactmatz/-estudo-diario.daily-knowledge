@@ -4,7 +4,7 @@
 const user = {
   name:'matheus',
   idade:23,
-  nickname: 'gordola',
+  nickname: 'nerdola',
   address:{
     street:'rua de tal',
     number:253
