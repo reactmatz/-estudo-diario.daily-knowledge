@@ -12,6 +12,6 @@ Separo em categorias:
 
 - Backend
 
-- Faculdade(em breve)
+- Faculdade
 
 - Frameworks & Bibliotecas
