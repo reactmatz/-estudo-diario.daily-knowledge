@@ -27,6 +27,7 @@ previsao = modelo.predict([[200, 3, 'X']])
 
 print('Preço previsto:', previsao)```
 
-Neste exemplo, estamos utilizando uma biblioteca chamada Pandas para carregar o conjunto de dados de treinamento, e a biblioteca Scikit-learn para criar e treinar o modelo de regressão linear. O modelo é então usado para fazer uma previsão para uma nova casa com base nas características fornecidas.
+
+ Neste exemplo, estamos utilizando uma biblioteca chamada Pandas para carregar o conjunto de dados de treinamento, e a biblioteca Scikit-learn para criar e treinar o modelo de regressão linear. O modelo é então usado para fazer uma previsão para uma nova casa com base nas características fornecidas.
 
 Este é apenas um exemplo simples de como o machine learning pode ser usado para criar modelos que possam aprender com dados e fazer previsões com base nessas informações. Há muitos outros algoritmos e técnicas que podem ser usados para resolver diferentes tipos de problemas.
