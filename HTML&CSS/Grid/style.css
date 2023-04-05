@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "roboto", sans-serif;
+  text-decoration: none;
+}
+.title {
+  text-align: center;
+}
+
+.grid-template {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  width: 60vw;
+  gap: 20px;
+  margin: 0 auto;
+}
+
+.canva {
+  background-color: #e2e0e0;
+  border-radius: 5px;
+  width: 100%;
+  height: 200px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.canva h1 {
+  margin: 30px 0px 5px 30px;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.canva p {
+  margin-left: 30px;
+  margin-bottom: 30px;
+  font-size: 1.1rem;
+}
+
+.canva a span {
+  padding: 10px 20px;
+  height: 30px;
+  border-radius: 5px;
+  font-weight: 500;
+  text-transform: uppercase;
+  margin-left: 30px;
+}
+
+.element a {
+  position: absolute;
+  padding-left: 5px;
+}
+
+.pink span {
+  background-color: #ed28d1;
+  color: #ffcdf8;
+}
+
+.brown span {
+  background-color: #a32a1cb0;
+  color: #ffffffb0;
+}
+
+.yellow span {
+  background-color: #eda428;
+  color: #fff8ec;
+}
+
+.purple span {
+  background-color: #6f188c;
+  color: #f3ceff;
+}
