@@ -1,0 +1,45 @@
+/* flex-grow
+flex-shrink 
+flex-basis */
+* {
+  margin: 0 auto;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 62.5%;
+}
+
+.main-flex {
+  display: flex;
+  font-size: 4rem;
+  width: 80vw;
+  height: 50vh;
+  gap: 10px;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+.flex {
+  flex: 1 0 200px;
+  height: 100px;
+  padding: 40px;
+  background-color: rgb(71, 75, 74);
+  text-align: center;
+  color: rgb(113, 187, 252);
+}
+
+.main-grid {
+  display: grid;
+  font-size: 4rem;
+  width: 80vw;
+  height: 50vh;
+  gap: 5px;
+  grid-template-columns: repeat(auto-fit, minmax(200px, auto));
+  align-content: center;
+}
+
+.grid {
+  height: 100px;
+  padding: 40px;
+  background-color: rgb(71, 75, 74);
+  color: rgb(113, 187, 252);
+}
