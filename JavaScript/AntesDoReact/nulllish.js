@@ -13,4 +13,3 @@ const teste = document.getElementById('minhaid').innerHTML = compar;
 
 // ou seja, nullish serve para quando vc precisar estabelecer um valor default para uma variavel que ainda nao foi for 'setada', ela ser estritamente precisa sobe oque e default ou nao, no caso de 0 iria retornar default com ||, oque nao queremos.
 
-
