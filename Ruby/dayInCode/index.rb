@@ -3,6 +3,10 @@ def soma(num1, num2)
   return num1 + num2
 end
 
+resultado = soma(1, 2)
+
+puts "#{resultado}"
+
 # Uso de string interpolation para interpolar variáveis
 nome = "João"
 mensagem = "Olá #{nome}, bem-vindo!"
