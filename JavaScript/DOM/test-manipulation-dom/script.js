@@ -19,5 +19,5 @@ const subTitle = document.querySelector('.animais-descricao h2');
 
 const ultimoSeletor = document.querySelectorAll('p')
 
-console.log(ultimoSeletor[-- ultimoSeletor.length ])
+// console.log(ultimoSeletor[-- ultimoSeletor.length ])
 
