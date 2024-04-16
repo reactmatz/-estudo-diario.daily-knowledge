@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!-- Carrega o React, React Dom e Babel -->
+  <script src="https://unpkg.com/react@18/umd/react.development.js"></script>
+  <script src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+
+  <!-- Don't use this in production: -->
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+  <title>react aula 01</title>
+</head>
+
+<body>
+  <!-- <div id="app-javascript">
+    <p>Total: <span id="total"></span></p>
+    <p>Price: <span id="price"></span></p>
+    <button id="button">Comprar</button>
+  </div>
+  <script type="application/javascript">
+    const total = document.getElementById("total");
+    const price = document.getElementById("price");
+    const button = document.getElementById("button");
+
+    let counter = 1;
+
+    function updateValues(state) {
+      total.innerText = state;
+      price.innerText = state * 13;
+    }
+
+    updateValues(counter);
+
+    function handleClick() {
+      counter += 1;
+      updateValues(counter);
+
+    }
+
+    button.addEventListener('click', handleClick);
+  </script> -->
+
+
+
+  <div id="root"></div>
+  <script type="text/babel">
+
+    const { useState } = React; 
+    const Comprar = () => {
+      const [count, setCount] = useState(1); 
+      const handleClick = () => {
+        setCount(prevCount => prevCount + 1); 
+      }
+      return (
+        <div>
+          <p>Price: R$ {count}</p>
+          <p>Total: R$ {count * 13}</p>
+          <button onClick={handleClick}>Comprar</button>
+        </div>
+      );
+    }
+
+    // Aplicação
+    const App = () => {
+      return (
+        <div>
+          <h1>Aplicativo react</h1>
+          <Comprar />
+        </div>
+      );
+    }
+
+    // Configuração e renderização inicial do React com ReactDOM
+
+    const container = document.getElementById('root');
+    const root = ReactDOM.createRoot(container);
+    root.render(
+      <App />);
+  </script>
+</body>
+
+</html>
